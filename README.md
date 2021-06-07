@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Uddipta
 - 👀 I’m interested in learning new technologies and ideas
 - 🌱 I’m currently learning different languages and frameworks for web development while pursuing my bachelors in Comp. Science Engg
-- 💞️ I’m looking to collaborate on any Web Dev project
 - 📫 How to reach me? Shoot me a message at : https://www.linkedin.com/in/uddipta-mahanta-a45866200/
 
 <!---
